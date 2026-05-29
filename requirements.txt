@@ -1,0 +1,5 @@
+sounddevice>=0.4.6
+numpy>=1.24.0
+requests>=2.31.0
+win10toast>=0.9
+pyinstaller>=6.0

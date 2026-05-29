@@ -1,0 +1,35 @@
+# Build output
+dist/
+build/
+*.spec
+
+# Config with real keys
+config.json
+
+# Runtime files
+*.log
+*.wav
+*.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+venv/
+.venv/
+
+# PyInstaller
+*.manifest
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

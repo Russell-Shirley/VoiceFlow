@@ -1,0 +1,6 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "openrouter_api_key": "YOUR_OPENROUTER_API_KEY",
+    "openrouter_model": "",
+    "mode": "cloud_direct"
+}
