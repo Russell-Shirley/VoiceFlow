@@ -29,6 +29,11 @@ venv/
 *.swp
 *.swo
 
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
 # OS
 .DS_Store
 Thumbs.db
